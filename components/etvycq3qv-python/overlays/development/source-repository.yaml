@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: etvycq3qv-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/etvycq3qv-python
